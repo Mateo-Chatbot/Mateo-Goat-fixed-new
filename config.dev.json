@@ -11,7 +11,6 @@
   },
   "maintainceMode": {
     "enabled": true,
-    "sendNoti": false,
     "notes": "Set enabled to true if you dont want your account to be suspended quick"
   },
   "antiInbox": false,
@@ -29,8 +28,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "MESSENGER CHATBOT.",
-  "prefix": ".",
+  "nickNameBot": "[ ? ] •➤ 𝙈𝘢𝘵𝘦𝘰 𝘾𝘩𝘢𝘵𝙗𝘰𝘵.",
+  "prefix": "?",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://mateochatbot:xdtL2bYQ9eV3CeXM@gerald.r2hjy.mongodb.net/Goatbot?retryWrites=true&w=majority",
